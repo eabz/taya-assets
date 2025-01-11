@@ -41,6 +41,22 @@
       "symbol": "WETH",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/eabz/taya-assets/master/blockchains/sepolia/weth.png"
+    },
+    {
+      "address": "0x820c88cf1ff46af1bb33c9bdddcdfdfbeba7d557",
+      "chainId": 11155111,
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/eabz/taya-assets/master/blockchains/sepolia/usdc.png"
+    },
+    {
+      "address": "0x9eb738d4678b276f5d6b5043849502b683d2cc93",
+      "chainId": 11155111,
+      "name": "DAI",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/eabz/taya-assets/master/blockchains/sepolia/dai.png"
     }
   ]
 }
