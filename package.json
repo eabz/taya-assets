@@ -1,0 +1,15 @@
+{
+  "name": "taya-assets",
+  "type": "module",
+  "scripts": {
+    "format": "biome format --max-diagnostics 100 --write .",
+    "lint": "biome lint --max-diagnostics 100 --write ."
+  },
+  "peerDependencies": {
+    "typescript": "5.0.0"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "1.9.4",
+    "@types/bun": "latest"
+  }
+}
