@@ -9,5 +9,38 @@
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/eabz/taya-assets/refs/heads/main/taya/taya-finance.jpg",
   "keywords": ["taya", "monad", "default"],
-  "tokens": []
+  "tokens": [
+    {
+      "address": "0xff901f49b8864ad60cc5799cc9172ae0455ec1d3",
+      "chainId": 11155111,
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/eabz/taya-assets/master/blockchains/sepolia/uni.png"
+    },
+    {
+      "address": "0x1ed9ca7e442a91591acecfb2d40e843e4fee00ff",
+      "chainId": 11155111,
+      "name": "Tether",
+      "symbol": "USDR",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/eabz/taya-assets/master/blockchains/sepolia/usdt.png"
+    },
+    {
+      "address": "0x88b35a64690c7b57af11d992d73e90ab8889c919",
+      "chainId": 11155111,
+      "name": "Wrapped Bitcoin",
+      "symbol": "WBTC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/eabz/taya-assets/master/blockchains/sepolia/wbtc.png"
+    },
+    {
+      "address": "0xf481cf7d88f824a3bb6d267554bba5313d361aa7",
+      "chainId": 11155111,
+      "name": "Wrapped Ethereum",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/eabz/taya-assets/master/blockchains/sepolia/weth.png"
+    }
+  ]
 }
