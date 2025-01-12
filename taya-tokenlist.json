@@ -22,7 +22,7 @@
       "address": "0x1ed9ca7e442a91591acecfb2d40e843e4fee00ff",
       "chainId": 11155111,
       "name": "Tether",
-      "symbol": "USDR",
+      "symbol": "USDT",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/eabz/taya-assets/master/blockchains/sepolia/usdt.png"
     },
