@@ -35,9 +35,9 @@
       "logoURI": "https://raw.githubusercontent.com/eabz/taya-assets/master/blockchains/sepolia/wbtc.png"
     },
     {
-      "address": "0xCB30d7c0cD2cbD058C0A17a03665c13Ac17e286a",
+      "address": "0xAE19bb7168F897d5dC144DA1386d42b67C9D3EE2",
       "chainId": 20143,
-      "name": "Wrapped Ethereum",
+      "name": "Wrapped Monad",
       "symbol": "WETH",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/eabz/taya-assets/master/blockchains/sepolia/weth.png"
