@@ -11,52 +11,44 @@
   "keywords": ["taya", "monad", "default"],
   "tokens": [
     {
-      "address": "0x56bBb2507a2A38Fe3964D7A4EC367cB3Ce2c3851",
-      "chainId": 20143,
+      "address": "0x22e6c8d87b21faec747b7ebd635dcd80e5d4b716",
+      "chainId": 10143,
       "name": "Uniswap",
       "symbol": "UNI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/eabz/taya-assets/master/blockchains/sepolia/uni.png"
+      "logoURI": "https://raw.githubusercontent.com/eabz/taya-assets/master/blockchains/monad-testnet/uni.png"
     },
     {
-      "address": "0xAdc7edd120aB374bB738B6d0B6255cAC21b7bD88",
-      "chainId": 20143,
+      "address": "0x1ed9ca7e442a91591acecfb2d40e843e4fee00ff",
+      "chainId": 10143,
       "name": "Tether",
       "symbol": "USDT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/eabz/taya-assets/master/blockchains/sepolia/usdt.png"
+      "logoURI": "https://raw.githubusercontent.com/eabz/taya-assets/master/blockchains/monad-testnet/usdt.png"
     },
     {
-      "address": "0x061F49f307Df47336741c3BAE6111e1A7742c349",
-      "chainId": 20143,
-      "name": "Wrapped Bitcoin",
-      "symbol": "WBTC",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/eabz/taya-assets/master/blockchains/sepolia/wbtc.png"
-    },
-    {
-      "address": "0xAE19bb7168F897d5dC144DA1386d42b67C9D3EE2",
-      "chainId": 20143,
+      "address": "0x760afe86e5de5fa0ee542fc7b7b713e1c5425701",
+      "chainId": 10143,
       "name": "Wrapped Monad",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/eabz/taya-assets/master/blockchains/sepolia/weth.png"
+      "logoURI": "https://raw.githubusercontent.com/eabz/taya-assets/master/blockchains/monad-testnet/weth.png"
     },
     {
-      "address": "0x9780510C6c86feeC4e72f515bc945C330339698c",
-      "chainId": 20143,
+      "address": "0xff901f49b8864ad60cc5799cc9172ae0455ec1d3",
+      "chainId": 10143,
       "name": "USDC",
       "symbol": "USDC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/eabz/taya-assets/master/blockchains/sepolia/usdc.png"
+      "logoURI": "https://raw.githubusercontent.com/eabz/taya-assets/master/blockchains/monad-testnet/usdc.png"
     },
     {
-      "address": "0x10BDDbCe093506b4246ED266C1b483B1B2f105e3",
-      "chainId": 20143,
+      "address": "0x2f1014530ed895245ecb5f9a79de023102f2e741",
+      "chainId": 10143,
       "name": "DAI",
       "symbol": "DAI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/eabz/taya-assets/master/blockchains/sepolia/dai.png"
+      "logoURI": "https://raw.githubusercontent.com/eabz/taya-assets/master/blockchains/monad-testnet/dai.png"
     }
   ]
 }
