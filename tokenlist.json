@@ -31,7 +31,7 @@
       "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "/assets/tokens/usdc.jpg"
+      "logoURI": "https://raw.githubusercontent.com/sub-labs/taya-assets/refs/heads/main/tokens/usdc.jpg"
     },
     {
       "address": "0xb5a30b0fdc5ea94a52fdc42e3e9760cb8449fb37",
@@ -39,7 +39,7 @@
       "name": "Wrapped ETH",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "/assets/tokens/weth.jpg"
+      "logoURI": "https://raw.githubusercontent.com/sub-labs/taya-assets/refs/heads/main/tokens/weth.jpg"
     },
     {
       "address": "0xcf5a6076cfa32686c0df13abada2b40dec133f1d",
@@ -47,7 +47,7 @@
       "name": "Wrapped BTC",
       "symbol": "WBTC",
       "decimals": 8,
-      "logoURI": "/assets/tokens/wbtc.jpg"
+      "logoURI": "https://raw.githubusercontent.com/sub-labs/taya-assets/refs/heads/main/tokens/wbtc.jpg"
     },
     {
       "address": "0xfe140e1dce99be9f4f15d657cd9b7bf622270c50",
@@ -55,7 +55,7 @@
       "name": "Moyaki",
       "symbol": "YAKI",
       "decimals": 18,
-      "logoURI": "/assets/tokens/yaki.jpg"
+      "logoURI": "https://raw.githubusercontent.com/sub-labs/taya-assets/refs/heads/main/tokens/yaki.jpg"
     },
     {
       "address": "0xe0590015a873bf326bd645c3e1266d4db41c4e6b",
@@ -63,7 +63,7 @@
       "name": "Chog",
       "symbol": "CHOG",
       "decimals": 18,
-      "logoURI": "/assets/tokens/chog.jpg"
+      "logoURI": "https://raw.githubusercontent.com/sub-labs/taya-assets/refs/heads/main/tokens/chog.jpg"
     },
     {
       "address": "0x0f0bdebf0f83cd1ee3974779bcb7315f9808c714",
@@ -71,7 +71,7 @@
       "name": "Molandak",
       "symbol": "DAK",
       "decimals": 18,
-      "logoURI": "/assets/tokens/dak.jpg"
+      "logoURI": "https://raw.githubusercontent.com/sub-labs/taya-assets/refs/heads/main/tokens/dak.jpg"
     },
     {
       "address": "0x3a98250f98dd388c211206983453837c8365bdc1",
@@ -79,7 +79,7 @@
       "name": "shMonad",
       "symbol": "shMON",
       "decimals": 18,
-      "logoURI": "/assets/tokens/shmon.png"
+      "logoURI": "https://raw.githubusercontent.com/sub-labs/taya-assets/refs/heads/main/tokens/shmon.png"
     }
   ]
 }
